@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">1_quizzzz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne pytanie</string>
+
+    <string name="add">2 + 2 = 4</string>
+    <string name="multiply">2 * 2 = 4</string>
+    <string name="animal">Wieloryb jest większy od słonia</string>
+    <string name="color">Kolor czarny jest najciemniejszy</string>
+    <string name="q_activity">Activity jest jednym z komponentów aplikacji Android</string>
+
+    <string name="correct_answer">Odpowiedź prawidłowa!</string>
+    <string name="incorrect_answer">Odpowiedź nieprawidłowa!</string>
+</resources>
